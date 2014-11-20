@@ -153,7 +153,7 @@ ul.posts {
 }
 
   /* standard */
-
+ pre {background-color:#000;padding:15px;overflow:auto;margin-bottom:40px;font-size:14px;border: 1px solid #eee;-webkit-border-radius: 4px 4px 4px 4px;-moz-border-radius: 4px 4px 4px 4px;border-radius: 4px 4px 4px 4px;color:#b9bdb6;margin-top:-20px; }
   #post pre {
     border: 1px solid #ddd;
     background-color: #eef;
