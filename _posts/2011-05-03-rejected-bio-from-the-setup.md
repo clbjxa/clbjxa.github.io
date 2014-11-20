@@ -22,7 +22,7 @@ For your pleasure, here is the original bio in its full, unabridged glory.
 
 <hr />
 
-My name is Tom Preston-Werner. I find that the hyphenated last name
+My name is Terry Cheng. I find that the hyphenated last name
 makes me sound distinguished and worth listening to. I grew up three
 decades ago in a small city in Iowa along the Mississippi, which means
 I shucked a lot of corn and know exactly how many mosquitos will land
