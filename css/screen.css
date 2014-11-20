@@ -155,9 +155,7 @@ ul.posts {
   /* standard */
 
   #post pre {
-    border: 1px solid #ddd;
-    background-color: #eef;
-    padding: 0 .4em;
+	background-color:transparent;border:none;padding:0;word-wrap:normal;
   }
 
   #post ul,
